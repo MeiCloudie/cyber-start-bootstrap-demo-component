@@ -5,11 +5,7 @@ export default {
     container: {
       center: true,
     },
-    extend: {
-      fontSize: {
-        title: "33px",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 }
