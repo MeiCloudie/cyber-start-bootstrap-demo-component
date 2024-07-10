@@ -5,7 +5,7 @@ import Item from "./Item"
 
 const Body = () => {
   return (
-    <div className="mb-auto">
+    <div className="mb-auto container">
       <Banner />
       <div>
         <Item />
