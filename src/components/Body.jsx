@@ -7,7 +7,7 @@ const Body = () => {
   return (
     <div className="mb-auto container">
       <Banner />
-      <div>
+      <div className="grid grid-cols-4 gap-4 p-4">
         <Item />
         <Item />
         <Item />
